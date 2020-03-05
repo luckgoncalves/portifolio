@@ -19,11 +19,9 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('G-3M22SELN4E');
-    ReactGA.pageview(window.location.pathname + window.location.search);
-
+    
   }
-
+  
   getResumeData(){
     $.ajax({
       url:'/resumeData.json',
@@ -38,8 +36,10 @@ class App extends Component {
       }
     });
   }
-
+  
   componentDidMount(){
+    ReactGA.initialize('G-3M22SELN4E');
+    ReactGA.pageview(window.location.pathname + window.location.search);
     this.getResumeData();
   }
 
