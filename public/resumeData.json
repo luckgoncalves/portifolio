@@ -1,0 +1,214 @@
+{
+  "main": {
+    "name":"Lucas Gonçalves",
+    "occupation":"Programador Full Stack",
+    "description":"Atualmente trabalho como front-end na Oystr Robôs Inteligente e nas horas livres estou aberto a novos desafios",
+    "image":"profile.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "lucasleitegoncalves@gmail.com",
+    "phone": "(41) 98718-7187",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Curitiba",
+      "state":"PR",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Pontifícia Universidade Católica do Paraná",
+        "degree":"Pós-Graduação em App Development ",
+        "graduated":"April 2018",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Faculdades Integradas Santa Cruz",
+        "degree":"Tecnologia em Gestão da Tecnologia da Informação",
+        "graduated":"2015",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancer",
+        "title":"Full Stack",
+        "years":"2018 - Atualmente",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Oystr Robôs Inteligentes",
+        "title":"Front-end ",
+        "years":"Abril 2019 - Atualmente",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"LPBK Advogados e Associados",
+        "title":"Analista de T.I",
+        "years":"Outubro 2012 - Março 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"40%"
+      },
+      {
+        "name":"Java Script",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"MySql",
+        "level":"90%"
+      },
+      {
+        "name":"Sql Server",
+        "level":"80%"
+      },
+      {
+        "name":"Postgres",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"WordPress",
+        "level":"70%"
+      },
+      {
+        "name":"Codeigniter",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Oystr Robôs Inteligentes",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"oystr.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Jurimetric Sistema",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"jurimetric_system.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Jurimetric Site",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"jurimetric_site.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Terraminer",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"terraminer.png",
+        "url":"http://www.terraminer.com.br"
+      },
+      {
+        "title":"A Rainha Ester",
+        "category":"A React based resume website template",
+        "image":"rainhaester.png",
+        "url":"http://www.rainhaester.com/"
+      },
+      {
+        "title":"Propósito",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"proposito.png",
+        "url":"https://proposito.com.br/"
+      },
+      {
+        "title":"LPBK Adovogados & Associados",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"lpbk.png",
+        "url":"http://www.smirkspace.com.br"
+      },
+      {
+        "title":"Projeto Inovação LPBK",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"inovacao_lpbk.png",
+        "url":"http://www.inovacao.lpbk.adv.br"
+      },
+      {
+        "title":"Legal Design Br",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"legaldesignbr.png",
+        "url":"http://www.legaldesignbr.com"
+      },
+      {
+        "title":"Inet",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"inet.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
