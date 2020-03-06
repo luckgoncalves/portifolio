@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
+import {createBrowserHistory} from 'history'
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -9,6 +10,10 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+
+ReactGA.initialize('UA-159883721-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 class App extends Component {
 
@@ -38,8 +43,7 @@ class App extends Component {
   }
   
   componentDidMount(){
-    ReactGA.initialize('G-3M22SELN4E');
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    
     this.getResumeData();
   }
 
