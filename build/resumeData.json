@@ -14,8 +14,8 @@
       "state":"PR",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.lucasgoncalves.dev",
+    "resumedownload":"https://drive.google.com/open?id=1bLIWsRsv-tWvSXIGTefZMdhuH5f5SWhh",
     "social":[
       {
         "name":"facebook",
@@ -24,17 +24,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/lucasgoncalves1994/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/luckgoncalves/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/luckgoncalves",
         "className":"fa fa-github"
       },
       {
@@ -51,13 +51,13 @@
         "school":"Pontifícia Universidade Católica do Paraná",
         "degree":"Pós-Graduação em App Development ",
         "graduated":"April 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       },
       {
         "school":"Faculdades Integradas Santa Cruz",
         "degree":"Tecnologia em Gestão da Tecnologia da Informação",
         "graduated":"2015",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "work":[
@@ -147,13 +147,13 @@
         "title":"Jurimetric Sistema",
         "category":"(offline now) A fighting gear company I started",
         "image":"jurimetric_system.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://app.jurimetric.com.br"
       },
       {
         "title":"Jurimetric Site",
         "category":"(offline now) A fighting gear company I started",
         "image":"jurimetric_site.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://jurimetric.com.br"
       },
       {
         "title":"Terraminer",
@@ -177,7 +177,7 @@
         "title":"LPBK Adovogados & Associados",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"lpbk.png",
-        "url":"http://www.smirkspace.com.br"
+        "url":"#"
       },
       {
         "title":"Projeto Inovação LPBK",
@@ -195,7 +195,7 @@
         "title":"Inet",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"inet.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"#"
       }
     ]
   },
