@@ -2,12 +2,12 @@
   "main": {
     "name":"Lucas Gonçalves",
     "occupation":"Programador Full Stack",
-    "description":"Atualmente trabalho como front-end na Oystr Robôs Inteligente e nas horas livres estou aberto a novos desafios",
+    "description":"Sempre atrás de novos desafios e conhecimentos",
     "image":"profile.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Residente em Curitiba, 26 anos. Atualmente trabalhando como Full Stack, porém mais focado em front-end na empresa Oystr. Estou sempre buscando novos desafios que me façam evoluir.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "lucasleitegoncalves@gmail.com",
-    "phone": "(41) 98718-7187",
+    "phone": "(41) 9 9766-9242",
     "address":{
       "street":"(Your Street)",
       "city":"Curitiba",
@@ -18,34 +18,19 @@
     "resumedownload":"https://drive.google.com/open?id=1bLIWsRsv-tWvSXIGTefZMdhuH5f5SWhh",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/luck.gonc",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/lucasgoncalves1994/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/luckgoncalves/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/luckgoncalves",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Pontifícia Universidade Católica do Paraná",
@@ -65,33 +50,33 @@
         "company":"Freelancer",
         "title":"Full Stack",
         "years":"2018 - Atualmente",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Além de ter meu emprego fixo, sempre estou atrás de projetos para me ajudarem a me manter atualizado."
       },
       {
         "company":"Oystr Robôs Inteligentes",
         "title":"Front-end ",
         "years":"Abril 2019 - Atualmente",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Trabalhando atualmente como Full Stack, com foco maior em ReactJs, nodeJs, PHP (WordPress)."
       },
       {
         "company":"LPBK Advogados e Associados",
         "title":"Analista de T.I",
         "years":"Outubro 2012 - Março 2019",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Iniciei na empresa como suporte técnico, evoluindo para programador Full Stack, onde pude contribuir com projetos para auxiliar o escritório no controle dos processos jurídico e produtividade do call center."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"React Native",
-        "level":"70%"
+        "level":"50%"
       },
       {
         "name":"NodeJs",
@@ -103,7 +88,7 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"HTML5",
@@ -123,7 +108,7 @@
       },
       {
         "name":"PHP",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"WordPress",
